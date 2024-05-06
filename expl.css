@@ -1,0 +1,10 @@
+Body {
+    font-family: Arial, sans-serif;
+    /* background-color: #f4f4f4; */
+    background-image: url("a8.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment: fixed;
+    margin: 0;
+    padding: 0;
+}

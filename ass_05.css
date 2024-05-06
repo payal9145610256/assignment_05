@@ -1,13 +1,17 @@
 body {
     font-family: Arial, sans-serif;
     background-color: #f4f4f4;
+    background-image: url("a2.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment: fixed;
     margin: 0;
     padding: 0;
 }
 
 header {
-    background-color: #333;
-    color: #fff;
+    background-color: #10efff;
+    color: #000000;
     padding: 20px;
 }
 nav ul {
@@ -32,7 +36,7 @@ main section {
 
 /* Sidebar */
 aside {
-    background-color: #ddd;
+    background-color: #dddddd;
     width: 200px;
     padding: 20px;
 }
